@@ -135,5 +135,3 @@
 ---
 
 <br>
-
-Credit (Original Template): [Abdul Khalid](https://github.com/0xabdulkhalid)
